@@ -49,12 +49,12 @@ npm run preview
 
 ## 📁 Project Structure
 
-src/
- ├── assets/        # Static assets
- ├── components/    # Reusable components
- ├── layouts/       # Layout wrappers
- ├── pages/         # Page-level components
- ├── styles/        # Global styles
+src/  
+ ├── assets/        # Static assets  
+ ├── components/    # Reusable components  
+ ├── layouts/       # Layout wrappers  
+ ├── pages/         # Page-level components  
+ ├── styles/        # Global styles  
  └── main.js        # Entry point
 
 ---
